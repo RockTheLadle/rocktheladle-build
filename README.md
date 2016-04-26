@@ -1,5 +1,5 @@
 # Rock the ladle build
-The files found in this repo are auto generated and should not be edited directly.   
+The files found in this repo are auto generated and should not be edited directly. That being said if all else fails "YOLO"
 The source files are found in https://github.com/digitalcake/rocktheladle whitch is a middle man app. 
 
 ## Setup source files steps.    
