@@ -1,6 +1,6 @@
 # Rock the ladle build
 The files found in this repo are auto generated and should not be edited directly.   
-The source files are found in https://github.com/digitalcake/rocktheladle witch is a middle man app. 
+The source files are found in https://github.com/digitalcake/rocktheladle whitch is a middle man app. 
 
 ## Setup source files steps.    
 1: fork https://github.com/digitalcake/rocktheladle   
